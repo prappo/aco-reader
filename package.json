@@ -1,6 +1,19 @@
 {
-    "name" : "@prappo/aco",
+    "name": "@prappo/aco-reader",
     "version": "1.0.0",
     "main": "index.js",
-    "repository": "prappo/aco"
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/prappo/aco-reader"
+    },
+    "keywords": [
+        "aco",
+        "reader",
+        "binary",
+        "palette",
+        "adobe",
+        "color",
+        "photoshop"
+    ],
+    "author": "Prappo Prince <prappo.prince@gmail.com> (https://github.com/prappo)"
 }
