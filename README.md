@@ -4,14 +4,14 @@ Decodes Adobe Color Files (.aco) to color formats
 ## Install
 
 ```sh
-$ npm install @prappo/aco-reader
+$ npm install aco-file-reader
 ```
 
 ## Usage
 
 
 ```js
-import Aco from 'aco-reader'
+import Aco from 'aco-file-reader'
 
 Aco().colors(BinaryString)
 ```

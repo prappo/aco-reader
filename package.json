@@ -1,5 +1,5 @@
 {
-    "name": "@prappo/aco-reader",
+    "name": "aco-file-reader",
     "version": "1.0.0",
     "main": "index.js",
     "repository": {
